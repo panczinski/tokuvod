@@ -2,6 +2,9 @@
 
 #PLAYLISTV: pltv-logo="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-name="Tokusatsu" pltv-description="Lista IPTV" pltv-cover="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-email="tokuvod@gmail.com"
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",GDRIVE
+https://drive.google.com/drive/folders/1gf0bjSWt88LsiNW487XJPr2nhPCn63Fx?usp=sharing
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Lista sem fins lucrativos
 https://twitter.com/
 
