@@ -20,16 +20,28 @@ http://bit.ly/tokuinfo
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos","http://bit.ly/tokuinfo"
 http://bit.ly/tokuinfo
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Kamen Rider http://bit.ly/tokuvodkr"
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Kamen Rider"
 https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Metal Hero http://bit.ly/tokuvodmh"
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodkr"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Metal Hero"
 https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Sem Franquia http://bit.ly/tokuvodsf"
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodmh"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Sem Franquia"
 https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Super Sentai http://bit.ly/tokuvodss"
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodsf"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Super Sentai"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodss"
 https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.clubdesmonstres.com/best/img/magicserpentaff.jpg" group-title="Filmes","Kairyuu Daikessen - 1966 - Denshin Fansub"
