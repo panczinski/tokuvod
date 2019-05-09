@@ -1,1 +1,257 @@
-#
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-name="Metal Hero" pltv-description="Lista IPTV" pltv-cover="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-email="tokuvod@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Lista sem fins lucrativos
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Não pode ser vendida
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Pedidos de remoção:
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",tokuvod@gmail.com
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Mais Informações
+http://bit.ly/tokuinfo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos","http://bit.ly/tokuinfo"
+http://bit.ly/tokuinfo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Kamen Rider"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodkr"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Metal Hero"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodmh"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Sem Franquia"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodsf"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Super Sentai"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodss"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/f8088f3a0a04d51ad4e3c2b22bea999d1472153896_large.jpg" group-title="Space Squad Filmes",HD 720p - Fandub YouDubb
+https://www.facebook.com/YouDubb-357226614689114/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-Wy-2Q99JV1c/UT1bI0xe_kI/AAAAAAAAeS4/SjcKbB2sTUQ/s1600/gavan-movie10.jpg" group-title="Space Squad Filmes",Space Sheriff Gavan: The Movie (2012)
+https://lh3.googleusercontent.com/kjdTzfK-MJKEsIvqI2hTsIJHrvRhyZTOiRhDL7W4b1_FDYFIku-wSPcklzRzYL372ZdBL3NSLyWgv-vlfdegjWSUBIFH3_JaAKC8tuJ-OabUk9lEvNc7hRAtz_vY2BUGbxLWfhEpVQ=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s.pacn.ws/640/kv/space-sheriff-sharivan-next-generation-sekisha-ban-limited-edit-375915.2.jpg?o3lqmy" group-title="Space Squad Filmes",Sharivan Next Generation (2014)
+https://lh3.googleusercontent.com/b77SXJllp1YHB8-du0ygaQqWbpiHfgne3rDaJO_WAQ_AxKYCfUdhm2E64AYOywtUH17HY_Wc_Qn4qu9Pm4EI-eVV267xZgDRp_5BNd5biZ_OrXsuA13Ecm4CvdDyodRITuOH-hO_HA=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/f8088f3a0a04d51ad4e3c2b22bea999d1472153896_large.jpg" group-title="Space Squad Filmes",Uchuu Keiji Gavan vs. Tokusou Sentai Dekaranger (2017)
+https://lh3.googleusercontent.com/Xxy3HyORGjeMV9WdVrLGE1XY8sh6msfVarFZhu6oBPeGIeXLVad7NrojoLERI00PDHKfwJ8g2LYX3zho9Y-_Rvf1uKRGXKQWXyWhwxCR6RCtK2cf_bzn4M-5lAp77sNdGqf-WEvuLA=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/f8088f3a0a04d51ad4e3c2b22bea999d1472153896_large.jpg" group-title="Space Squad Filmes",HD 720p - Legendado
+https://www.facebook.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-Wy-2Q99JV1c/UT1bI0xe_kI/AAAAAAAAeS4/SjcKbB2sTUQ/s1600/gavan-movie10.jpg" group-title="Space Squad Filmes",Uchuu Keiji Gavan: The Movie (2012)
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://henshinhead.files.wordpress.com/2012/02/gokai428a.jpg" group-title="Space Squad Filmes",Uchuu Keiji Gavan VS Tokumei Sentai Go-Busters 01 (2012)
+https://lh3.googleusercontent.com/KKSxVbVWIFeJNTdF2rmJT-xahD18P8JiHjtDeV6NW0fseLr0PXF7EvCzu7y45epW3_ca42tAAk51NciBsIHa7oRfRzB_XRbWpa57kLSZ31JwoMj0Z4tCEAepNP6pbFR2NBg-eK_nYQ=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://henshinhead.files.wordpress.com/2012/02/gokai428a.jpg" group-title="Space Squad Filmes",Uchuu Keiji Gavan VS Tokumei Sentai Go-Busters 02 (2012)
+https://lh3.googleusercontent.com/oXWLBzK_lLizwk0WEB0K-q_1WptFy6DafBWrnAbIsuAJ1sR5ySV0i42PXNWLLs_vkTGutVes8FQSekLRLI80c7rc9vg8WPD57xcxP6iWhe1rkQHnTMX16k31HqCAq_uvcdP1nRoPcQ=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s.pacn.ws/640/kv/space-sheriff-sharivan-next-generation-sekisha-ban-limited-edit-375915.2.jpg?o3lqmy" group-title="Space Squad Filmes",Uchuu Keiji Sharivan Next Generation (2014)
+https://lh3.googleusercontent.com/PGOwI0XOXPP6zUb_7GYynO653c0N6z2FVky7GboqScScrlq1BDQ5b-AgUlcbXcycKvi2DJQqHtwe9XTcF2H5jGHUq8V7TzvyY9q95BeWHDZxTFz4l-BJBujwTQFKPLylRdz0GBPd-g=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s.pacn.ws/640/l1/space-sheriff-shaider-next-generation-shoketsu-ban-limited-edit-378623.2.jpg?o3h9fh" group-title="Space Squad Filmes",Uchuu Keiji Shaider Next Generation (2014)
+https://lh3.googleusercontent.com/YEJ-D4ah3tNYvBw_hCv8l3eTYI0mawkWykX3LMsblMk7NdC1J2IYT23YsoOI_j8lZdP2fdAM2t-3iWqrVMhUOVP7f_3dYKjL0b3u1Q0ZVhXr9voZplQX2pyCeFo3yHjaVDVz4e-2Jg=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s.pacn.ws/640/nd/tokusou-sentai-dekaranger-10-years-after-original-soundtrack-420861.2.jpg?nvtwa4" group-title="Space Squad Filmes",Tokusou Sentai Dekaranger: 10 Years After (2015)
+https://lh3.googleusercontent.com/E6_lF2wB2AMm4FzB1NoYx9s-hCFWKwX4NOaO7k3S-R_uYw5JKFd7v73s2Y0PPvLsdSM8ErzWMhYD3pl8d0AmqXIPQpQV98Zg4YBpOVF8dF7_8qC26D2yRLCnAO-HBrQrpkCkoNcjxw=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.toei.co.jp/release/dvd/__icsFiles/afieldfile/2017/01/18/git0118.jpg" group-title="Space Squad Filmes",Girls in Trouble: Space Squad Episode Zero (2017)
+https://lh3.googleusercontent.com/Z0_9cSNvwAngq7Lu13QyhXZO3Ci7-t8eBJv_QCoJcB_GigJxY0gs9KEpLiGzGKJPHRgDsYcj3slUTlXDIwbMpJ7VSozCHw9HG5L7cqEKJuaeWJo4ZtqJhwg72NzMSru53hpF1zXOIA=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-c7WEniTEyI0/WV9XccZpX1I/AAAAAAAAKPY/nWLC82jHTzQk_vSg8XFSCufU7fYgE5eQACLcBGAs/s1600/%255Bclampschool%255D%2BSpace%2BSquad%2B-%2BGavan%2BVS%2BDekaranger%2B3.jpg" group-title="Space Squad Filmes",Uchuu Keiji Gavan vs. Tokusou Sentai Dekaranger (2017)
+https://lh3.googleusercontent.com/P0Z4GLL_Kye1a_zVMziaJ64GK0LOWn5nhrmwm2J5dhwrjhlMxxP-r8D2ForUlitCtqssxQZyAdmlmOtE6m47dhPj84u6AU03nzjaXpgXYUh0ov4nL7Z0rPEIjOxg3hSmrOcJeq1m7w=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://news.tokunation.com/wp-content/uploads/sites/5/2018/04/Super-Sentai-Hero-Mama-4-150x150.jpg" group-title="Space Squad Filmes",Hero Mama League (2018)
+https://lh3.googleusercontent.com/bfJuzYRpISsLrRZKVmmAJSuJ4MkPr4796j7LIr4KrBG64b3-P02EhuwS5qPOeK-qGoVE0QZ_duelw5Uzlz8lSUr-wsbjq-OCBL7dgynAFq_Xv7qH4XK-__sV4ue3F2hJMsp5AxztTg=m22
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://img1.ak.crunchyroll.com/i/spire4/f8088f3a0a04d51ad4e3c2b22bea999d1472153896_large.jpg" group-title="Space Squad Filmes",Uchu Sentai Kyuranger vs. Space Squad (2018) Em breve.
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","SD - Dublado"
+https://#
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","Ep 01 - A Base Secreta do Mal"
+https://archive.org/download/gvn01/gvn01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","Ep 02 - O Japão À Beira de uma Invasão"
+https://archive.org/download/gvn01/gvn02.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","Ep 03 - Projeto Sabotado"
+https://archive.org/download/gvn01/gvn03.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","Ep 04 - O Elmo Maligno"
+https://archive.org/download/gvn01/gvn04.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","Ep 05 - A Vida de Gyaban por um Triz"
+https://archive.org/download/gvn01/gvn05.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/2izSAPfeXxjs6jjC-A8LWVh3K0lu8YkfETFSiRvYyRAjxH3V5FCCpBPj8JED2MTLcqYlJVgMNPgbYzh8pp3VqaaLhgulZYZ2MWZuk-D7jS3CIroV7gTw2DZE2ilHN_SjEfp0SDS0" group-title="Uchuu Keiji Gavan 1982","Ep 06 - Escola de Gênios"
+https://archive.org/download/gvn01/gvn06.avi
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)",SD 480p - Dublado
+https://www.youtube.com/channel/UCzLtKasUj5agj2Gjvw83ZoQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)",Tokusatsu TV - Youtube
+https://www.youtube.com/channel/UCzLtKasUj5agj2Gjvw83ZoQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 01 - Paco, A Cápsula Miraculosa"
+https://www.youtube.com/embed/oc36XJpeGfo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 02 - Barão Owl, o Imperador Ninja"
+https://www.youtube.com/embed/NN769Qh7Uqw
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 03 - A Esmeralda"
+https://www.youtube.com/embed/dP3ClH8qUnY
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 04 - A Retomada da Inscrição"
+https://www.youtube.com/embed/lmGlgv0cNow
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 05 - O Roubo da Espada Olímpica"
+https://www.youtube.com/embed/UwzdsopsstM
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 06 - O Mistério dos Mistérios"
+https://www.youtube.com/embed/usX6a-vQVxI
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 07 - O Caçador da Selva"
+https://www.youtube.com/embed/7CSKrBXXucg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 08 -  O Anjo da Morte"
+https://www.youtube.com/embed/OLXc3vchbl0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 09 - A Emboscada"
+https://www.youtube.com/embed/h3wKdPhbhKE
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 10 - A Vida ou a Morte"
+https://www.youtube.com/embed/eVL9TPj467I
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 11 - A Vingança do Kung Fu"
+https://www.youtube.com/embed/KIHX7erp8CY
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 12 -  A Promessa do Amor"
+https://www.youtube.com/embed/2NRPQBU1FjI
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 13 - As Sete Sombras"
+https://www.youtube.com/embed/6POlcVRWEM8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 14 - O Franco Atirador"
+https://www.youtube.com/embed/I2_FvAUJe5I
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 15 - A Maldição Lendária"
+https://www.youtube.com/embed/6dWdoX52jJM
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 16 - A Cruzada dos Ninjas"
+https://www.youtube.com/embed/7-c4446PP78
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 17 -  A Estrela das Trevas"
+https://www.youtube.com/embed/F1o9Xwvt4Jw
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 18 - A Vingança de Agnes"
+https://www.youtube.com/embed/wnK950uFp8w
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 19 - A Invasão"
+https://www.youtube.com/embed/5vgzk0OAIAI
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 20 - Procura-se Jiraiya"
+https://www.youtube.com/embed/DRioKBOB1GE
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 21 - A Ira da Lua"
+https://www.youtube.com/embed/JZZcSQqMpI4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 22 - A Confissão de Masato"
+https://www.youtube.com/embed/2fwrbDZglgY
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 23 - O Sequestro dos Cientistas"
+https://www.blogger.com/video-play.mp4?contentId=149b45791cbe0e2e
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 24 - O Capitão Pirata"
+https://www.youtube.com/embed/x--BX755koQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 25 -  O Rapto dos Animais"
+https://www.youtube.com/embed/f6ghWhFguWU
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 26 - A Primavera de Emiha"
+https://www.youtube.com/embed/OJUs0A6pU8E
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 27 - Jiraiya, o Inimigo de Torra"
+https://www.youtube.com/embed/7XBgrIEA5Pc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 28 -  Quem sou eu?"
+https://www.youtube.com/embed/uncPMfjMddY
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 29 - A Revolta do Pequeno Ninja"
+https://www.youtube.com/embed/z9GCxGwF7qU
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 30 - O Ninja Solitário"
+https://www.youtube.com/embed/P3zdu_8uz6E
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 31 - A Espada de Chin Guen"
+https://www.youtube.com/embed/igz1IP8QxtM
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 32 - A Percepção Extra Senhorial"
+https://www.youtube.com/embed/-nPfkmm2NFQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 33 - A Guitarra Cobiçada"
+https://www.youtube.com/embed/uGToGS4iAHI
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 34 - A Caveira Assassina"
+https://www.youtube.com/embed/bPg2kSZx9-c
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 35 - O Desafio dos Togakuri"
+https://www.youtube.com/embed/GYPImIhG9R4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Ep 36 - O Feitiço do Gato Preto"
+https://www.youtube.com/embed/aZXWbzmclMg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2017/06/Jiraya-o-incrivel-ninja-capa-01-842x900.jpg" group-title="Jiraiya O Incrível Ninja (1988)","Continua..."
+https://www.youtube.com/channel/UCzLtKasUj5agj2Gjvw83ZoQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)",SD 480p - Fansub Perfect Zeck
+http://www.newzect.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)",http://www.newzect.com
+http://www.newzect.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 01 - Kindergarten Bus of Death"
+https://lh3.googleusercontent.com/HpG14ATyQuoup2xFXjRA1_yhqqZpPTQbvBXyzxJStRSL7bRxcJ_XaOxIDBFAyMnR3OnTqnM7jwIle5k3YEK82mZJWoIU_SVnM6cDWvZhQhylJZOO9v6Ul9DQVOptfvNJBTjoS5B9eg=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 02 - Rupture City SOS!"
+https://lh3.googleusercontent.com/fZbkaQ5L7FBextJF6_oYzpGu5LRbmoTyY-daIXJb1T6Om8szgpZ2MnGYIir-vHrKRRo4pftKGur3tQ5KCGBr-nrTAbEhrksN4lB0lHiv1JB-fb0ITSVb5d_di_U4qQL5UzUB118ePw=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 03 - Shadow of Red Spade"
+https://lh3.googleusercontent.com/IwwcXMxRXS8dgN4R3yXvIRKRALnaE6hYUzmEdQg7o6eepdhGR8I8tR4yaZ62Piw9Xgf2uW4g_X884qsULPTacC7TU_W-1wKNTCBFqC-7JfjKyYMVNFupsEDVsJlSNT8lRYZF4KzH0w=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 04 - Organism Weapon Girl"
+https://lh3.googleusercontent.com/qQwRkV19dsDvHUHDTNJMyx5Irh21z66Qk9V497D929Q16GnGoR25ee6Q5NzoWk3mKFOO36a3FwpOBgr1_J6e0H0jIPMnFIgTqsfzTxH6T8pCqM7muxczO6U2bBCHQWBEbhtf73cJ-w=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 05 - Space of One Person"
+https://lh3.googleusercontent.com/YQ2g9po34bFBz7K-ayk1OX8CCLqmwUFBj1u2UXdbMZGw0TpnYmz7ndfzWiACQHrg1VTMRURMOvOXJLrxSOyT2jX49rh7O3H6qum525TcXKTat9Q5QfmRci8Sr3dkSpCzMOeDd4fkxA=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 06 - Track/Truck Mother"
+https://lh3.googleusercontent.com/qZ7poyATPxViQmXGsic7aNpxNCPSyH6PAaGl1Zt3xWLCB2CGggHMvZBQKVpojtzIJqmRUu4KesvBWO12R5036ahXnfPnKQMRpsKJs7tv-7FONX3wOQyzPqyR2WN_CX10BITOYhjt4g=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 07 - Hayato Designation Arrangement!"
+https://lh3.googleusercontent.com/z3MnDGqD9Cd6TwUFfQyuZrAMyWkV734-SlGYCXAfyuK_A-GjCBGJbkdCK23QasTeCkkB0IveT5NrxTtJL9REbwGwpfrz68KzEXEi-mC9jsA8rnD6BM5qHG0kcXyZR4LAVoLr5oDNsw=m18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/18x93h5RDHs/hqdefault.jpg" group-title="Tokusou Exceedraft (1992)","Ep 08 - Spade Last Maneuvers"
+https://lh3.googleusercontent.com/fM2eMGiHE8NpPB1-s5nohKF52BlcpezUnod2QWp1X3faMRoz9iTomIbcNNlUkAjkKVCITgWQ7QDXWOqmC9nSt-F2jVA45cdehY_kS_aYSpQyaVl3MaNSOFR8Gk8dTeFwJrWtnRwzwg=m18
