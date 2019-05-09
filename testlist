@@ -1,6 +1,6 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-name="Tokusatsu" pltv-description="Lista IPTV" pltv-cover="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-email="tokuvod@gmail.com"
+#PLAYLISTV: pltv-logo="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-name="Metal Hero" pltv-description="Lista IPTV" pltv-cover="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-email="tokuvod@gmail.com"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Lista sem fins lucrativos
 https://twitter.com/
@@ -19,6 +19,18 @@ http://bit.ly/tokuinfo
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos","http://bit.ly/tokuinfo"
 http://bit.ly/tokuinfo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Kamen Rider http://bit.ly/tokuvodkr"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Metal Hero http://bit.ly/tokuvodmh"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Sem Franquia http://bit.ly/tokuvodsf"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Super Sentai http://bit.ly/tokuvodss"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.clubdesmonstres.com/best/img/magicserpentaff.jpg" group-title="Filmes","Kairyuu Daikessen - 1966 - Denshin Fansub"
 https://lh3.googleusercontent.com/EdqLvelA9z9uik0FF6hfOTiFOIggrJqE2d1Yiy6vfyQwT8LeV3pCfH3E13kqBNuiaLsUhDse70ACm8vkFUeCoSJVDb5gzG17KaWct1GSJf-QM2atooBigeyjId7oNSbvX-DQC9pi8g=m18
