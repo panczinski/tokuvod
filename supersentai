@@ -1,1 +1,204 @@
-#
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-name="Metal Hero" pltv-description="Lista IPTV" pltv-cover="http://images2.wikia.nocookie.net/__cb20070930020226/eiga/images/a/a7/Toei_logo.jpg" pltv-email="tokuvod@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Lista sem fins lucrativos
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Não pode ser vendida
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Pedidos de remoção:
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",tokuvod@gmail.com
+https://twitter.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos",Mais Informações
+http://bit.ly/tokuinfo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Avisos","http://bit.ly/tokuvodinfo"
+http://bit.ly/tokuinfo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Kamen Rider"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodkr"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/kamenrider
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Metal Hero"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodmh"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/metalhero
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Sem Franquia"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodsf"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/independentes
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","Super Sentai"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.reptiday.com/Images/Template/Green_RIght_Arrow.jpg" group-title="Todas as Listas","http://bit.ly/tokuvodss"
+https://raw.githubusercontent.com/panczinski/tokuvod/master/supersentai
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)",SD 480p - Dublado
+https://www.youtube.com/channel/UCzLtKasUj5agj2Gjvw83ZoQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)",Tokusatsu TV - Youtube
+https://www.youtube.com/channel/UCzLtKasUj5agj2Gjvw83ZoQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 01 - Os Defensores do Planeta Terra"
+https://www.youtube.com/watch?v=F77j-giWBKg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 02 - A Ira do Poderoso Bazoo"
+https://www.youtube.com/watch?v=QCnaRLxqydY
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 03 - O Desespero de Zoobie"
+https://www.youtube.com/watch?v=L6zSXTva0A8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 04 - O Desaparecimento de Togo"
+https://www.youtube.com/watch?v=aBZgaoRZoeI
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 05 - O Mistério do Cristal X"
+https://www.youtube.com/watch?v=pf_xbCs5PLg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 06 - Cuidado, Meninas de Virgem"
+https://www.youtube.com/watch?v=ln6xIq7YcL0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 07 - O Enviado do Planeta Atlanta"
+https://www.youtube.com/watch?v=QO1Sfv_1Ml8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 08 - As Mulheres Vampiras"
+https://www.youtube.com/watch?v=ATYU4aQItM8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 09 - A Bola Dragão Salva a Humanidade"
+https://www.youtube.com/watch?v=e0nZswyNb3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 10 - O Toque dos Bonecos"
+https://www.youtube.com/watch?v=GIdkW04p0Fw
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 11 - A Visista Koko e Kiki"
+https://www.youtube.com/watch?v=kWKB0XHqQmA
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 12 - Mermaid se Torna Mãe"
+https://www.youtube.com/watch?v=-NIkrI3lVa0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 13 - A Garota Do Planeta Technolíquel"
+https://www.youtube.com/watch?v=NgbUfd8nZdo
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 14 - Perdida na Terra"
+https://www.youtube.com/watch?v=GsMEvPSJqHs
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 15 - A Motoqueira Mai"
+https://www.youtube.com/watch?v=BQrIVRBg7dw
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 16 - O Anjo do Planeta Meril"
+https://www.youtube.com/watch?v=cHlXA32Giks
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 17 - O Navio Fantasma"
+https://www.youtube.com/watch?v=UzXw4kkAukg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 18 - O Poder de Ahames"
+https://www.youtube.com/watch?v=tOtYFT4NS98
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 19 - A Fúria de Sayaka"
+https://www.youtube.com/watch?v=bVT9QmUl4Ok
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 20 - A Revanche de Giluke"
+https://www.youtube.com/watch?v=OoxgVb-hZYc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 21 - O Metaleiro Espacial"
+https://www.youtube.com/watch?v=cqK5hO-4jTw
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 22 - A Prisioneira da Espelho"
+https://www.youtube.com/watch?v=zfxNMVaxI-M
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 23 - O Menino e o Golfinho"
+https://www.youtube.com/watch?v=GbVaZ0RsX18
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 24 - A Fuga de Gyodai"
+https://www.youtube.com/watch?v=O6siku8K7Xg
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 25 - A Canção Fatal"
+https://www.youtube.com/watch?v=BvTL2RCiKi4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 26 - O Toque da Primavera"
+https://www.youtube.com/watch?v=gzyYQRU2uh4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 27 - O Sonho da Família Gaata"
+https://www.youtube.com/watch?v=5u4GjgWpLFc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 28 - A Maldição Sangrenta"
+https://www.youtube.com/watch?v=2ayWaETmWnc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 29 - A Lenda da Borboleta Dourada"
+https://www.youtube.com/watch?v=3mvLoLuMGOQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 30 - Avante, Pégasus!"
+https://www.youtube.com/watch?v=ZBFI0H5IHIw
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 31 - O Segredo de Bazoo"
+https://www.youtube.com/watch?v=fCWOEzOUXFM
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 32 - Reencontro Perigoso"
+https://www.youtube.com/watch?v=DjsgxGaJzoI
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 33 - O Fim de Giluke"
+https://www.youtube.com/watch?v=5NhA3CJa9NM
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 34 - Invencível Ahames"
+https://www.youtube.com/watch?v=10YYgO-Mb6Y
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 35 - S.O.S. Planeta Terra"
+https://www.youtube.com/watch?v=cm0N_DoNhqY
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 36 - A Super Potência"
+https://www.youtube.com/watch?v=7YeUvCJsg1U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","Ep 37 - O Desaparecimento de Dragon"
+https://www.youtube.com/watch?v=3Sp9TL-ojr8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.media.tumblr.com/tumblr_mlrkpvaAhu1soaaoyo1_1366814373_cover.jpg" group-title="Esquadrão Relâmpago Changeman (1985)","37/55 - Continua..."
+https://www.youtube.com/channel/UCzLtKasUj5agj2Gjvw83ZoQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","480P - New Zect"
+http://www.newzect.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","http://www.newzect.com/"
+http://www.newzect.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 01 -"
+https://ia800807.us.archive.org/20/items/igam0110ds/[New%20Wave]%20Magiranger%2001-10/[New%20Wave]%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2001SD%20[79C1E514].mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 02 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2002SD%20%5BBC837C6C%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 03 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2003SD%20%5B16FDC90B%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 04 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2004SD%20%5B7F5F4E32%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 05 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2005SD%20%5B34010251%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 06 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2006SD%20%5B76F81E03%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 07 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2007SD%20%5B822484A8%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 08 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2008SD%20%5B69083102%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 09 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2009SD%20%5B44203624%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 10 -"
+https://archive.org/download/igam0110ds/%5BNew%20Wave%5D%20Magiranger%2001-10/%5BNew%20Wave%5D%20Fam%C3%ADlia%20M%C3%A1gica%20Magiranger%2010SD%20%5B076E38FD%5D.mkv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://66.90.93.122/ost/mahou-sentai-magiranger-single/front-cover.jpg" group-title="Mahou Sentai Magiranger (2005)","Ep. 11 -"
+http://bit.ly/2f6aWuy
